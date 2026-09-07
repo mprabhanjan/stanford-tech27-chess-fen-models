@@ -13,6 +13,10 @@ The project is divided into two distinct modeling phases, backed by a robust ima
 
 ---
 
+## 0.  Synthetic Chessboard Image Dataset from Kaggle:
+https://www.kaggle.com/datasets/koryakinp/chess-positions
+Download the image dataset using wget or similar.
+
 ## 1. Running the Basic ML Models
 The traditional ML models (`tech27_project_chess_basic_models.ipynb`) are fully self-contained. 
 
